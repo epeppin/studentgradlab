@@ -1,0 +1,8 @@
+#output {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#first, #last, #grade, #percent {
+    display: none;
+}
